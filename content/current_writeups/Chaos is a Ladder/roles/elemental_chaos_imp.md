@@ -41,4 +41,10 @@ at_death: Vanishes
 healed_by: Necromancy
 immune_to: Sleep, Charm, Poison, Death, Paralyze, Necromancy, Drain, Feeblemind, Vertigo
 Protectives: None to Start
+
+reset: 5 times
+costume: Green Tabards 
+makeup: Green Markings (Lipstick on face or green eyeliner markings)
+
 ---
+
