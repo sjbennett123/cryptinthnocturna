@@ -2,16 +2,16 @@
 :root{
 
     --MAIN-TEXT-color:white; /* Color of text by default */
-    --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
-    --MAIN-LINK-color:#f31c1c; /* Color of links */
-    --MAIN-LINK-HOVER-color:#d01616; /* Color of hovered links */
-    --MAIN-ANCHOR-color: #f31c1c; /* color of anchors on titles */
+    --MAIN-TITLES-TEXT-color: #005500; /* Color of titles h2-h3-h4-h5 */
+    --MAIN-LINK-color:#005500; /* Color of links */
+    --MAIN-LINK-HOVER-color:#00aa00; /* Color of hovered links */
+    --MAIN-ANCHOR-color: #00aa00; /* color of anchors on titles */
 
     --MENU-HOME-LINK-color: #ccc; /* Color of the home button text */
     --MENU-HOME-LINK-HOVER-color: #e6e6e6; /* Color of the hovered home button text */
 
-    --MENU-HEADER-BG-color:#00FF00; /* Background color of menu header */
-    --MENU-HEADER-BORDER-color:#00FF00; /*Color of menu header border */
+    --MENU-HEADER-BG-color:#005500; /* Background color of menu header */
+    --MENU-HEADER-BORDER-color:#005500; /*Color of menu header border */
 
     --MENU-SEARCH-BG-color:#006600; /* Search field background color (by default borders + icons) */
     --MENU-SEARCH-BOX-color: #006600; /* Override search field border color */
