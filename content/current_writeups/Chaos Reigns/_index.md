@@ -32,7 +32,7 @@ treasure: Coins, Components, Production
 magic_items:
   - 
     name: Sapphire Amulet
-    description: Sapphire Amulet
+    description: An Amulet made of pure sapphire, its pure properties offer protection to those would attempt to freeze your body
     duration: 2 year
     effects:
       -  Cloak Ice x3
@@ -58,10 +58,6 @@ running_notes: The easiest way to close the node is to Imprison someone around t
 
 
 ---
-
-
-
-
 
 
 

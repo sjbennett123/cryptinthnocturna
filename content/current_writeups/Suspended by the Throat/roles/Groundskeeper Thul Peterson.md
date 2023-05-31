@@ -14,10 +14,12 @@
 
 **Damage**: 5 Silver
 
-**Abilities:** Read and Write, Healing Arts, Read Magic, First Aid, Craftsman Other: Groundskeeper x20
+**Abilities:** 
+
+- Read and Write, Healing Arts, Read Magic, First Aid, Craftsman Other: Groundskeeper x20
 
 **Killing Blow Active**: No
 
 **Costume**: Black Clothing, Hood, Dirty Face
 
-**Motivations**: Preserve the natural order of things around Moutesque. You don’t want to know what happens in the walls of Moutesque but you know it doesn’t need to overflow into the lands surrounding…
+**Motivations**: Preserve the natural order of things around Moutesque. You don’t want to know what happens in the walls of Moutesque but you know it shouldn't overflow into the surrounding lands.

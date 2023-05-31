@@ -3,7 +3,7 @@ title: Suspended by the Throat
 Layout: module
 
 author: Chris Colland
-reviewer: 
+reviewer: Scott Bennett
 
 schedule: saturday morning
 weight: 3
@@ -17,7 +17,7 @@ synopsis: >
   A Servant of Demitri Revendreth has done something unthinkable and gathered Feral dead corpses and created them as Greater Undead to amplify their power. When the PCs arrive, they will hear snarls and howls mixed with the moans and wails of Undead. Whomever did this abomination lurked around collecting all the dead Feral slain after the PCs killed them over the last night. There is no easy way to approach this module than rushing in and facing them. There is only one wave of these creatures, this was a cruel experiment that was to be released at night but the PCs lucked out and have a chance to stop it now.
 outcomes: 
   - The PCs enter the Catacomb and slay the Undead Lycans
-  - The PCs ignore the fight or don’t defeat them and they become a Night Random (detailed in the module Cursed to walk)
+  - The PCs ignore the fight or don’t defeat them and the undead Lycans become a Night Random (detailed in the modulec)
 
 number_of_cast_members: 7
 Roles: 
@@ -27,13 +27,7 @@ Roles:
 props: 
 makeup: 
 treasure: Coins, Components, Production
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
+
 
 rumors: 
 

@@ -24,18 +24,16 @@ outcomes:
   - If Adira doesn’t complete the riddles or gives up, the scarf will vanish but she will be told she will be tested soon again...
 
 number_of_cast_members: 1
-Roles: 
-
-props: 
-makeup: 
 treasure: Coins, Components, Production, Dark Fae Owl Scarf (Adira Personal Plot Item)
 magic_items:
   - 
     name: Sword of the Hunter
-    description:  
-    duration: 
+    description:  This Silver Sword was once a fallen Undead hunters trusty blade, it seems to have fallen into the hands of the enemy as of late
+    duration: 2 Year
     effects: 
-      - +3 Damage Aura Silver Sword
+      - Silver Sword Base
+      - +3 Damage Aura
+      - Cloak Chaos x2
 
 rumors: 
 
@@ -52,33 +50,7 @@ craftsman_information:
 transformations: 
 running_notes: This module is a massive puzzle module. 
 
-
 ---
-
-
-
-
-
-
-
-
-
- Speaker Issac Tempest
-You are the chosen Speaker for Cryptinth. Your devotion is very devout, you will not reveal any secrets of the Children of the Stars or compromise the security of the cause. You are willing to die
-Body: 50
-Defenses: Immune to Charm, Immune to Enslavement, Resist Sleep x3, Resist Poison x3, 
-Return x3, Healed by Chaos
-Magic: 4/4/4/4/4/4/4/4/4 Earth, 10 Levels Earth Formal
-Weapons: None
-Damage: Always has Defiling and Healing Pool Up
-Abilities: Read and Write, Herbal Lore, Read Magic, Healing Arts
-Transform: Lvl 8 Chaos Elemental
-Killing Blow Active: Yes, but will only attack if attacked first or protecting other members of the cult
-Motivations: Draw as many people into the Children of the Stars, Get as much donations as possible, Get people to put “faith” in the cause so the Star grows in power
-
-
-
-
 
 
 
