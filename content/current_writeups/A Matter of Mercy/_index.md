@@ -14,7 +14,8 @@ requirements:
 description: > 
   A local merchant in Cryptinith has been shorted on a trade deal. The matter was brought to the Lord Reeve and he was headed to deal with it but now that there are adventurers, a test of their persuasion and investigation is called.
 
-synopsis: The Lord Reeve of Cyptinith, Kyumiri Cryptinth,  sets out to the Tavern. Before he arrives, a last group of Feral snuck into the City Gates and sensed the Lycans among the Adventurers in the Tavern. The Feral “randoms” set out for them as Kyumiri makes his grand appearance cutting a path through them to reach the adventurers. Upon his arrival and the dispatching of the Feral, the High Lord Reeve welcomes the Adventurers and give them 2 tasks to judge their skills before setting out for Moutesque.
+synopsis: > 
+  The Lord Reeve of Cyptinith, Kyumiri Cryptinth,  sets out to the Tavern. Before he arrives, a last group of Feral snuck into the City Gates and sensed the Lycans among the Adventurers in the Tavern. The Feral “randoms” set out for them as Kyumiri makes his grand appearance cutting a path through them to reach the adventurers. Upon his arrival and the dispatching of the Feral, the High Lord Reeve welcomes the Adventurers and give them 2 tasks to judge their skills before setting out for Moutesque. 
 
   The nature of the trade dispute is a shipment of Silver Ore and Alchemy to Corin Stellin, a local independent trader and merchant. Orden Dutah, an experienced businessman, feels Corin is taking advantage of the Guilds hospitality allowing him to be an independent  free trader operating outside the “rules of the guilds.” Corin is upset over the taxes the Guilds charge for silver imports given the nature of Lycans and the Laws of Cryptinth. Corin doesn’t feel the taxes should apply in this dire need. Orden wants to collect the Guilds tax on Corin despite his good intentions.
 

@@ -82,7 +82,7 @@
 </div>
 {{ end }}
  {{- if .Params.background -}}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify -}}</p></div>{{- end -}}
-{{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
+{{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis: </b> {{- .Params.synopsis | markdownify -}}</p></div> {{ end }}
 {{- if .Params.outcomes -}} 
 {{- $outcomes := (slice ) -}} 
 {{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
