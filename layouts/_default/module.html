@@ -168,7 +168,7 @@
 {{ if .Params.rules_clarifications }}<div id="rules_clarifications"> <p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> </div> {{ end }} 
 {{ if .Params.craftsman_information }}<div id="craftsman_information"><p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p></div> {{ end }} 
 {{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
-{{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
+{{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes | markdownify }}</p></div>{{ end }} 
 
 {{ .Content }} 
 

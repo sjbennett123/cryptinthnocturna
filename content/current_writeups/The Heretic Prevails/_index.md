@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early evening
-weight: 
+weight: 10
 plotline: 
 requirements: 
   -  Entombment of a Machine has been ran
@@ -56,13 +56,13 @@ transformations: ALL OF THEM AND YES!!!!
 running_notes: > 
   This module is the finale of the weekend! THIS FIGHT IS NO MERCY!!!!! THE GLOVES ARE OFF!!!!! VALDRICK DON’T PLAY WEAK GAMES!!!! 
 
-  The Lich will reset until Demitri Revendreth is defeated but will wait 60 second between
+   - The Lich will reset until Demitri Revendreth is defeated but will wait 60 second between
 
-  The Death Knights will reset until Demitri Revendreth is defeated but will wait 60 second between
+  - The Death Knights reset until Demitri Revendreth is defeated but will wait 60 second between
 
-  The Skelton Warlords will reset until Demitri Revendreth is defeated but will wait 20 second between
+  - The Skelton Warlords reset until Demitri Revendreth is defeated but will wait 20 second between
 
-  Demitri Revendreth requires 5 STAKES OF WOE to permanently kill, these can be acquired, quested for, earned as favor, created throughout the weekend
+  - Demitri Revendreth requires 5 STAKES OF WOE to permanently kill, these can be acquired, quested for, earned as favor, created throughout the weekend.
 
  
 Props: Vampire Costume, White Tabards, Blue Tabards, Red Tabards, Undead Makeup, Blood

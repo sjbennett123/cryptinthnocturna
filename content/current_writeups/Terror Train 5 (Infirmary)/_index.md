@@ -17,7 +17,7 @@ outcomes:
   - The PCs fail to reclaim the Infirmary or they come back later a respawn
 
 
-number_of_cast_members: 
+number_of_cast_members: 6
 Roles: 
 
 props: 
@@ -37,36 +37,23 @@ hook:
 scenes: 
   - 
     oog: 
-    ig: 
+    ig: Moutesque Infirmary
     flee_point: 
 
 non_standard_effects: 
 rules_clarifications: 
 craftsman_information: 
 transformations: 
-running_notes: 
+running_notes: This module is the One of 7 in a chain to reclaim Moutesque. 5 of these modules should be ran Saturday afternoon and the final 2 after reset on Saturday night. The Oblivion’s Edge Wraith is a Banshee on this one, she will plant her feet and cast Magic Death like Magic Storm. The Leviathan should surround her and guard her like loyal soldiers
 
 
 ---
-
-Terror Train 5
-
-
- **Brief**: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The third target is the old Ducal Manor
-
-
-
-
- **Requirements:** 
-
-
-
 
 
 
  **Hook**: The Lord Reeve gives his Charge and tasks the Adventurers with leading an expeditionary force to reclaim Moutesque under the Oblivion’s Edge advice
 
-**Number of Cast Members**: 6
+
 
 **Roles**: Oblivion’s Edge Banshee, Barghest x5
 
@@ -74,20 +61,10 @@ Terror Train 5
 
 **Tags and Treasure**: Coins, Components, Production
 
-**Scene 1**: (OOG) Mod Shack (IG) Moutesque Infirmary
+**Scene 1**: (OOG) Mod Shack (IG) 
 
 **Flee Point**: Mod Shack Door
 
-**Non-Standard Effects**: None
 
-**Rules Clarifications**: None
-
-**Craftsman Information**: None
-
-**Transformations**: None
-
-![*](PicExportError)       **R**
-
- **Running Notes**: This module is the One of 7 in a chain to reclaim Moutesque. 5 of these modules should be ran Saturday afternoon and the final 2 after reset on Saturday night. The Oblivion’s Edge Wraith is a Banshee on this one, she will plant her feet and cast Magic Death like Magic Storm. The Leviathan should surround her and guard her like loyal soldiers
 
  
