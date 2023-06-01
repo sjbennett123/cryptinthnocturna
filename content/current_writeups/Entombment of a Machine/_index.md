@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule: Saturday Early Evening
+schedule: saturday early evening
 weight: 
 plotline: 
 requirements: 

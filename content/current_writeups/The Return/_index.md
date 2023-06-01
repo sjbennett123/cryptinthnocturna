@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early evening
-weight: 
+weight: 2
 plotline: 
 requirements: 
   - You Have Selected the Lore Configuration has been ran

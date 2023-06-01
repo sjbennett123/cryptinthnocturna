@@ -9,7 +9,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early evening
-weight: 
+weight: 1
 plotline: 
 requirements: 
   -  Chaos Reigns has been ran

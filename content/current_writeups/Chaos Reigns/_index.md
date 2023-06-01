@@ -3,7 +3,7 @@ title: Chaos Reigns
 Layout: module
 
 author: Chris Colland
-reviewer: 
+reviewer: Scott Bennett
 
 schedule: Saturday Afternoon
 weight: 
@@ -53,9 +53,7 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: 
 transformations: Chaos Elementals
-running_notes: The easiest way to close the node is to Imprison someone around the box with a cloak as a shield. Merrick is a PC Played by Dominic Hurly
-
-
+running_notes: The easiest way to close the node is to Imprison someone around the box with a cloak as a shield. Merrick is a PC Played by Dominic Hurly. 
 
 ---
 

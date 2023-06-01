@@ -9,4 +9,3 @@ Closing the Chaos Node take 5 minutes of uninterrupted concentration. Solomon wi
 - If they close it within 15 minutes, the Node will close and can be opened to retrieve the Sapphire Amulet. 
 
 - If they take more than 15 minutes to close it, Solomon will pass out and the Magic Item inside the Node will vanish to be found elsewhere.
-

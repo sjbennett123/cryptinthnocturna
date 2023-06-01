@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early evening
-weight: 
+weight: 5
 plotline: 
 requirements: 
   - Terror Train 7 has been ran and Moutesque has been “reclaimed”

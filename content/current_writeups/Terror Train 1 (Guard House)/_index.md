@@ -6,7 +6,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: saturday early afternoon
-weight: 
+weight: 4
 plotline: 
 requirements: 
   - The Lord Reeves Charge has been ran

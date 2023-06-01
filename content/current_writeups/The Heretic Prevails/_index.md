@@ -53,173 +53,22 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: 
 transformations: ALL OF THEM AND YES!!!!
-running_notes:  This module is the finale of the weekend! THIS FIGHT IS NO MERCY!!!!! THE GLOVES ARE OFF!!!!! VALDRICK DON’T PLAY WEAK GAMES!!!! 
+running_notes: > 
+  This module is the finale of the weekend! THIS FIGHT IS NO MERCY!!!!! THE GLOVES ARE OFF!!!!! VALDRICK DON’T PLAY WEAK GAMES!!!! 
 
+  The Lich will reset until Demitri Revendreth is defeated but will wait 60 second between
+
+  The Death Knights will reset until Demitri Revendreth is defeated but will wait 60 second between
+
+  The Skelton Warlords will reset until Demitri Revendreth is defeated but will wait 20 second between
+
+  Demitri Revendreth requires 5 STAKES OF WOE to permanently kill, these can be acquired, quested for, earned as favor, created throughout the weekend
+
+ 
+Props: Vampire Costume, White Tabards, Blue Tabards, Red Tabards, Undead Makeup, Blood
 
 
 ---
 
 
 
-The Ultimate act of evil for Moutesque, the unlocking of the Dark Tower.
-
-
-
-
-
-
-
-
-
-**Props**: Vampire Costume, White Tabards, Blue Tabards, Red Tabards, Undead Makeup, Blood
-
-**Tags and Treasure**: 
-**Scene 1**: 
-
-**Flee Point**: Town
-
-**Transformations: **
-
-
-
- 
-
-The Lich will reset until Demitri Revendreth is defeated but will wait 60 second between
-
-The Death Knights will reset until Demitri Revendreth is defeated but will wait 60 second between
-
-The Skelton Warlords will reset until Demitri Revendreth is defeated but will wait 20 second between
-
-Demitri Revendreth requires 5 STAKES OF WOE to permanently kill, these can be acquired, quested for, earned as favor, created throughout the weekend
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
-**Liche of the One True King**
-
-**![A screenshot of a computer  Description automatically generated with medium confidence](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_1a99/AC/Temp/msohtmlclip1/01/clip_image002.png)**
-
- 
-
-**Body**: 200 (150 Undead + 50 Base)
-
-**Threshold**: 8
-
-**Defenses**: Add Cloak Earth x3
-
-**Magic**: 4 Block Earth, 20 Levels of Formal
-
-**Weapons**: Any or Claws
-
-**Damage**: 10 Magic Drain
-
-**Abilities**: Read and Write, Herbal Lore, Read Magic, Focus
-
-**Killing Blow Active**: Yes
-
-**Costume:** Blue Tabard, Undead Makeup
-
-**Motivations**: SLAY THE LIVING!!! MAKE THEM JOIN THE ONE TRUE KING VALDRICK’S ARMY!!!!
-
-**Reset:** Yes, Until Demitri Revendreth Falls but wait 60 seconds
-
- 
-
- 
-
- 
-
- 
-
- 
-
-**Death Knight of the One True King**
-
-**![A screenshot of a computer  Description automatically generated with medium confidence](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_1a99/AC/Temp/msohtmlclip1/01/clip_image004.png)**
-
-**Body**: 400 (350 Undead +5 0 Base)
-
-**Threshold**: 10 (Not true Perceptors)
-
-**Defenses**: Add Cloak Earth x3
-
-**Magic**: 4 Block Earth, 10 Levels of Formal
-
-**Weapons**: Any or Claws
-
-**Damage**: 15 Magic
-
-**Abilities**: Read and Write, Herbal Lore, Read Magic, Focus, Critical Slay/Parry x3
-
-**Killing Blow Active**: Yes
-
-**Costume:** Red Tabard, Undead Makeup
-
-**Motivations**: SLAY THE LIVING!!! MAKE THEM JOIN THE ONE TRUE KING VALDRICK’S ARMY!!!!
-
-**Reset:** Yes, Until Demitri Revendreth Falls but wait 60 seconds
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Skeleton Warlord
-
-*You were once a “Citizen of Moutesque” or a town nearby, by one of Valdrick’s minions brought you back to raid the tower and be part of his army of the Night. You shamble forward with unholy energy and the thirst for the living.*
-
-![A screenshot of a computer  Description automatically generated with medium confidence](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_1a99/AC/Temp/msohtmlclip1/01/clip_image006.png)
-
-**Weapons**: Any or Claws
-
-**Damage**: 15 Magic Pin
-
-**Abilities:**  SPELLSTRIKE DEATH ONLY x1
-
-**Killing Blow Active**: Yes
-
-**Costume**: White Tabard, Armor, Undead Makeup
-
-**Motivations**: Slay the Living! All Hail the One True King, Valdrick!
-
-**Reset**: Yes, Until Demitri Revendreth Falls but wait 20 seconds
-
- 
-
- 
