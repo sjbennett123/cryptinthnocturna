@@ -5,10 +5,8 @@ Layout: module
 
 author: Joe Tate
 reviewer: Bobby and Josh
-# "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: friday night
-weight: 0
 
 
 description: This module is designed to teach resource management, and Status Effects that can be received via in game skills by both Monsters and PCs. 

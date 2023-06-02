@@ -2,7 +2,7 @@
 title: Celestial Dream
 Layout: module
 
-author: Chris Colland
+author: Chris Colland and Donnie Leight
 reviewer: Scott Bennett
 
 schedule: saturday morning
